@@ -1,3 +1,4 @@
+![Damage](https://github.com/Chiphill2/Chiphill2/assets/138550188/6c718375-d5a1-4885-a4d5-9f8b7f43c90b)
 
 
 Welcome to our GitHub repository! 😎
@@ -11,4 +12,3 @@ Now, we won't front and pretend it's all perfect and shiny. We're keepin' it rea
 So go ahead and dive in, fam. This here's a judgment-free zone where we embrace the code hustle. If you've got ideas, suggestions, or just wanna drop some fire emoji, hit us up! We're all ears. Let's make this code journey one for the books! 🚀🔥
 
 Thanks for swingin' by, and remember, the code is yours for the takin'. Happy hacking! 🤘😄
-![Damage](https://github.com/Chiphill2/Chiphill2/assets/138550188/6c718375-d5a1-4885-a4d5-9f8b7f43c90b)
