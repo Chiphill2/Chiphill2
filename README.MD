@@ -1,4 +1,5 @@
 ![Damage](https://github.com/Chiphill2/Chiphill2/assets/138550188/6c718375-d5a1-4885-a4d5-9f8b7f43c90b)
+
 Welcome to our GitHub repository! 😎
 
 Me and Lando got you covered with all the code for our projets. It may not be the absolute best, but hey, it gets the job done, ya know? And the best part is, you can have it all for free! 🆓💯
