@@ -3,6 +3,21 @@
 
 Welcome to our GitHub repository! 😎
 
+Our Project right now: QuantumGen
+Last Project: YsNuke 
+
+Our Dates
+Monday : Here 
+Tuesday : Here
+Wensday : Not here
+Thursday : here
+Firday : here 
+Rest days Sunday and saturday
+
+
+
+Our info 
+
 Me and My buddys Like Lando, Hillflow, Nesa, Zetsu And more got you covered with all the code for our projets. It may not be the absolute best, but hey, it gets the job done, ya know? And the best part is, you can have it all for free! 🆓💯
 
 We're all about that open-source vibe, where we lay it all out for you to explore and use. So grab a 🍿, dig into our code, and feel free to rock it however you like. We're not gonna hold you back!
