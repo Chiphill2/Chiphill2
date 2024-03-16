@@ -3,8 +3,8 @@
 
 Welcome to our GitHub repository! 😎
 
-Our Project right now: QuantumGen
-Last Project: YsNuke 
+Our Project right now: Chips Unblocked Games
+Last Project: QGEN
 
 Our Dates
 Monday : Here 
