@@ -12,10 +12,12 @@ For Now the dates are random
 
 
 
-Our info 
+NEWS
 Lando And my other buddys will no longer be working with me 
-If you want the full story go to the very bottem
+Lando Has been putting viruses into our codes and his buddies have too this account is mine for taking yk i code most of it as shown on CUG
+Now i love lando don't get me wrong but i think its better that someone who loves the fanbase keeps the account so i love yall peace and i will let yall know.
 
+My Info
 I got you covered with all the code for our projects. It may not be the absolute best, but hey, it gets the job done, ya know? And the best part is, you can have it all for free! 🆓💯
 
 I'm all about that open-source vibe, where i lay it all out for you to explore and use. So grab a 🍿, dig into my code, and feel free to rock it however you like. I'm not gonna hold you back!
@@ -26,6 +28,4 @@ So go ahead and dive in, fam. This here's a judgment-free zone where we embrace 
 
 Thanks for swingin' by, and remember, the code is yours for the takin'. Happy hacking! 🤘😄
 
-Now The Story
-Lando Has been putting viruses into our codes and his buddies have too this account is mine for taking yk i code most of it as shown on CUG
-Now i love lando don't get me wrong but i think its better that someone who loves the fanbase keeps the account so i love yall peace and i will let yall know.
+
