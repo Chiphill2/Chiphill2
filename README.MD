@@ -1,4 +1,4 @@
-![Damage](New Project (3).png)
+![Damage](https://github.com/DamageCoding/DamageCoding/blob/main/New%20Project%20(3).png?raw=true)
 
 
 Welcome to our GitHub repository! 😎
