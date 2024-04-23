@@ -3,7 +3,7 @@
 
 Welcome to my GitHub repository! 😎
 
-My Project right now:CUG
+My Project right now: CUG
  Last Project: Q GEN
 
 MY Dates
