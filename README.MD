@@ -4,7 +4,7 @@
 Welcome to my GitHub repository! 😎
 
 My Project right now:CUG
-Last Project: QGEN
+ Last Project: Q GEN
 
 MY Dates
 For Now the dates are random
