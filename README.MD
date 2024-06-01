@@ -1,32 +1,19 @@
-![Damage](https://github.com/DamageCoding/DamageCoding/blob/main/New%20Project%20(4).png?raw=true)
+<h1 align="center">Yo, Marcus is here.</h1>
+<h3 align="center">Must Of My Projects Are Public.</h3>
 
+- Hey, I am currently working on my discord server Yeo. [Yeo (discord)]([https://yeodiscord.touchgrass.cloud](https://yeodiscord.touchgrass.cloud))
 
-Welcome to my GitHub repository! 😎
+- Who am i? **I Am Marcus The Orginal owner of Replenish titan 2022.**
 
-My Project right now: CUG
+<h1 align="center">Replenish Titan was officially discontinued in 2024</h1>
 
-Last Project: Q GEN
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://yeodiscord.touchgrass.cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lol" height="30" width="40" /></a>
+</p>
 
-MY Dates
-For Now the dates are random
-(Due to school)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-
-NEWS
-Lando And my other buddys will no longer be working with me 
-Lando Has been putting viruses into our codes and his buddies have too this account is mine for taking yk i code most of it as shown on CUG
-Now i love lando don't get me wrong but i think its better that someone who loves the fanbase keeps the account so i love yall peace and i will let yall know.
-
-My Info
-I got you covered with all the code for our projects. It may not be the absolute best, but hey, it gets the job done, ya know? And the best part is, you can have it all for free! 🆓💯
-
-I'm all about that open-source vibe, where i lay it all out for you to explore and use. So grab a 🍿, dig into my code, and feel free to rock it however you like. I'm not gonna hold you back!
-
-Now, i won't front and pretend it's all perfect and shiny. I'm keepin' it real. But hey, that's where you come in! You can take my foundation and kick it up a notch. Add your own flair, sprinkle some ✨magic✨, and make it even more awesome. Together, we can level up this code game!
-
-So go ahead and dive in, fam. This here's a judgment-free zone where we embrace the code hustle. If you've got ideas, suggestions, or just wanna drop some fire emoji, hit me up! We're all ears. Let's make this code journey one for the books! 🚀🔥
-
-Thanks for swingin' by, and remember, the code is yours for the takin'. Happy hacking! 🤘😄
-
+<h1 align="center">Floating In My Dreams....</h1>
 
